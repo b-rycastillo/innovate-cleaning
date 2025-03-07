@@ -1,0 +1,8 @@
+{
+    "columns": ["Service", "Price", "Description"],
+    "data": [
+      ["Deep Cleaning", "$150", "Thorough cleaning of entire home"],
+      ["Office Cleaning", "$200", "Regular cleaning for office spaces"],
+      ["Move-out Cleaning", "$180", "Cleaning before moving out"]
+    ]
+}
