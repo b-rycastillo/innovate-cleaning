@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+
+import "../styles/ServicesTable.scss"; // Import your CSS file here
 interface TableData {
   columns: string[];
   data: string[][];
@@ -13,7 +15,7 @@ const ServicesTable: React.FC = () => {
   }, []);
   if (!tableData) return <p>Loading...</p>;
   return (
-    <table border="1">
+    <table className="services-table">
       <thead>
         <tr>
           {tableData.columns.map((col, index) => (
