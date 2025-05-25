@@ -1,5 +1,6 @@
 import ServicesTable from "../components/ServicesTable";
 import Header from "../components/Header";
+import Footer from "../components/Footer/Footer";
 import '../App.css';
 
 const Home: React.FC = () => {
@@ -27,68 +28,9 @@ const Home: React.FC = () => {
                 kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
                 kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
                 kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                This is some placeholder content for section . Add more content here to test the sticky header.
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                This is some placeholder content for section . Add more content here to test the sticky header.
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                This is some placeholder content for section . Add more content here to test the sticky header.
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                This is some placeholder content for section . Add more content here to test the sticky header.
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
-                kdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfdkdksfd
               </p>
-            </div>
+        </div>
+        <Footer/>
     </div>
   );
 };

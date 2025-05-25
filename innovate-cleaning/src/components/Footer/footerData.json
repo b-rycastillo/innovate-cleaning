@@ -1,0 +1,22 @@
+{
+  "company": {
+    "name": "Innovate Cleaning",
+    "description": "Professional cleaning services tailored to your needs."
+  },
+  "navigation": [
+    { "label": "Home", "url": "/" },
+    { "label": "Services", "url": "/services" },
+    { "label": "About Us", "url": "/about" },
+    { "label": "Contact", "url": "/contact" }
+  ],
+  "contact": {
+    "address": "123 Clean St, Miami, FL",
+    "phone": "(123) 456-7890",
+    "email": "info@innovatecleaning.com"
+  },
+  "social": [
+    { "platform": "Facebook", "url": "https://facebook.com/innovatecleaning" },
+    { "platform": "Twitter", "url": "https://twitter.com/innovateclean" },
+    { "platform": "Instagram", "url": "https://instagram.com/innovatecleaning" }
+  ]
+}
