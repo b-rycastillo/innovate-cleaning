@@ -1,7 +1,7 @@
 {
   "company": {
-    "name": "Innovate Cleaning",
-    "description": "Professional cleaning services tailored to your needs."
+    "name": "Ruth Group",
+    "description": "Embroidery & Heat Press Specialists"
   },
   "navigation": [
     { "label": "Home", "url": "/" },
@@ -11,8 +11,8 @@
   ],
   "contact": {
     "address": "123 Clean St, Miami, FL",
-    "phone": "(123) 456-7890",
-    "email": "info@innovatecleaning.com"
+    "phone": "(305) 926-6973",
+    "email": "ruthdesign.groupinc@gmail.com"
   },
   "social": [
     { "platform": "Facebook", "url": "https://facebook.com/innovatecleaning" },

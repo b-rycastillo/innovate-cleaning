@@ -1,6 +1,13 @@
 import React from 'react';
 import styles from './Footer.module.scss';
 import footerData from './footerData.json';
+import { FaFacebookF, FaTwitter, FaInstagram } from 'react-icons/fa';
+
+const iconMap: Record<string, JSX.Element> = {
+  Facebook: <FaFacebookF />,
+  Twitter: <FaTwitter />,
+  Instagram: <FaInstagram />,
+};
 
 const Footer = () => {
   const { company, navigation, contact, social } = footerData;
@@ -32,15 +39,15 @@ const Footer = () => {
         </div>
         <div className={styles.socialMedia}>
           <h3>Follow Us</h3>
-          <ul>
-            {social.map((network, index) => (
-              <li key={index}>
-                <a href={network.url} target="_blank" rel="noopener noreferrer">
-                  {network.platform}
-                </a>
-              </li>
-            ))}
-          </ul>
+          <ul className={styles.socialIcons}>
+    {social.map((network, index) => (
+      <li key={index}>
+        <a href={network.url} target="_blank" rel="noopener noreferrer">
+          {iconMap[network.platform] || network.platform}
+        </a>
+      </li>
+    ))}
+  </ul>
         </div>
       </div>
       <div className={styles.footerBottom}>
