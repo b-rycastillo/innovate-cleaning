@@ -38,16 +38,16 @@ const Footer = () => {
           </p>
         </div>
         <div className={styles.socialMedia}>
-          <h3>Follow Us</h3>
-          <ul className={styles.socialIcons}>
-    {social.map((network, index) => (
-      <li key={index}>
-        <a href={network.url} target="_blank" rel="noopener noreferrer">
-          {iconMap[network.platform] || network.platform}
-        </a>
-      </li>
-    ))}
-  </ul>
+            <h3>Follow Us</h3>
+            <ul className={styles.socialIcons}>
+                {social.map((network, index) => (
+                    <li key={index}>
+                        <a href={network.url} target="_blank" rel="noopener noreferrer">
+                            {iconMap[network.platform] || network.platform}
+                        </a>
+                    </li>
+                ))}
+            </ul>
         </div>
       </div>
       <div className={styles.footerBottom}>
