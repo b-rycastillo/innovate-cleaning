@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "Ruth Group",
+    "name": "Innovate Cleaning",
     "description": "Embroidery & Heat Press Specialists"
   },
   "navigation": [
@@ -10,9 +10,9 @@
     { "label": "Contact", "url": "/contact" }
   ],
   "contact": {
-    "address": "Homestead, FL",
-    "phone": "(305) 926-6973",
-    "email": "ruthdesign.groupinc@gmail.com"
+    "address": "Miami, FL",
+    "phone": "(305) 123-4567",
+    "email": "innovatecleaning@gmail.com"
   },
   "social": [
     { "platform": "Facebook", "url": "https://facebook.com/innovatecleaning" },

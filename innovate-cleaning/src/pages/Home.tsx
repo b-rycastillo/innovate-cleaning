@@ -1,5 +1,5 @@
 import ServicesTable from "../components/ServicesTable";
-import Header from "../components/Header";
+import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 import '../App.css';
 

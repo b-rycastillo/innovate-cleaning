@@ -1,0 +1,12 @@
+{
+  "logoText": "Innovate Cleaning",
+  "links": [
+    { "label": "Services", "url": "/services" },
+    { "label": "About", "url": "/about" },
+    { "label": "Contact", "url": "/contact" }
+  ],
+  "cta": {
+    "label": "Book Now",
+    "url": "/book"
+  }
+}
